@@ -1,0 +1,5 @@
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\Exceptions\bin\Debug\Exceptions.exe.config
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\Exceptions\bin\Debug\Exceptions.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\Exceptions\bin\Debug\Exceptions.pdb
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\Exceptions\obj\Debug\Exceptions.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\Exceptions\obj\Debug\Exceptions.pdb

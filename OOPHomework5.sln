@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad1Shape", "OOPHomework5\zad1Shape.csproj", "{709613B8-AC1A-4D96-A31B-D3828273C7DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2Bank", "zad2Bank\zad2Bank.csproj", "{8D1F84A5-134B-4139-9046-4B868A38F86E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad3Exceptions", "Exceptions\zad3Exceptions.csproj", "{9A7FD7CA-2408-4D78-A192-9F9355BC7FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709613B8-AC1A-4D96-A31B-D3828273C7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709613B8-AC1A-4D96-A31B-D3828273C7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709613B8-AC1A-4D96-A31B-D3828273C7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709613B8-AC1A-4D96-A31B-D3828273C7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1F84A5-134B-4139-9046-4B868A38F86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1F84A5-134B-4139-9046-4B868A38F86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1F84A5-134B-4139-9046-4B868A38F86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1F84A5-134B-4139-9046-4B868A38F86E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7FD7CA-2408-4D78-A192-9F9355BC7FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7FD7CA-2408-4D78-A192-9F9355BC7FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7FD7CA-2408-4D78-A192-9F9355BC7FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7FD7CA-2408-4D78-A192-9F9355BC7FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

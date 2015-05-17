@@ -1,0 +1,6 @@
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\OOPHomework5\obj\Debug\zad1Shape.csprojResolveAssemblyReference.cache
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\OOPHomework5\bin\Debug\OOPHomework5.exe.config
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\OOPHomework5\bin\Debug\OOPHomework5.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\OOPHomework5\bin\Debug\OOPHomework5.pdb
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\OOPHomework5\obj\Debug\OOPHomework5.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\OOPHomework5\obj\Debug\OOPHomework5.pdb

@@ -1,0 +1,12 @@
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\zad2Bank\bin\Debug\zad2Bank.exe.config
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\zad2Bank\obj\Debug\zad2Bank.csprojResolveAssemblyReference.cache
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\zad2Bank\bin\Debug\zad2Bank.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\zad2Bank\bin\Debug\zad2Bank.pdb
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\zad2Bank\obj\Debug\zad2Bank.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\OOPHomework5\zad2Bank\obj\Debug\zad2Bank.pdb
+C:\Users\Naso\Desktop\OOPHomework5\zad2Bank\bin\Debug\zad2Bank.exe.config
+C:\Users\Naso\Desktop\OOPHomework5\zad2Bank\obj\Debug\zad2Bank.exe
+C:\Users\Naso\Desktop\OOPHomework5\zad2Bank\obj\Debug\zad2Bank.pdb
+C:\Users\Naso\Desktop\OOPHomework5\zad2Bank\bin\Debug\zad2Bank.exe
+C:\Users\Naso\Desktop\OOPHomework5\zad2Bank\bin\Debug\zad2Bank.pdb
+C:\Users\Naso\Desktop\OOPHomework5\zad2Bank\obj\Debug\zad2Bank.csprojResolveAssemblyReference.cache
